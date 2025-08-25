@@ -1,4 +1,3 @@
-Hangman Game
 Welcome to my version of the classic Hangman game, built using React and TypeScript.
 
 💻 Technologies
