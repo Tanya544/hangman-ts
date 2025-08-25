@@ -25,3 +25,4 @@ To run this project locally, follow these steps:
 4. Start the development server:
    npm run dev
 The project will be available in your browser at http://localhost:5173.
+![Game"](hangman/src/asses/hangmanGame.png)
